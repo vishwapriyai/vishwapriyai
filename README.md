@@ -107,3 +107,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2033,100:0A0C14&height=100&section=footer"/>
 
 </div>
+
+
+<path xmlns="http://www.w3.org/2000/svg" d="" fill="url(#linear)" opacity="0.4">
+          <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z;M0 0L 0 170Q 213.5 140 427 140T 854 160L 854 0 Z;M0 0L 0 165Q 213.5 145 427 170T 854 185L 854 0 Z;M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z">
+          </animate>
+        </path>
