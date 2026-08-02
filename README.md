@@ -70,8 +70,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishwapriyai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0C14&title_color=E8A33D&icon_color=3DD6C7&text_color=E8EAF2"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwapriyai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0C14&title_color=E8A33D&text_color=E8EAF2"/>
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishwapriyai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0C14&title_color=E8A33D&icon_color=3DD6C7&text_color=E8EAF2"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwapriyai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0C14&title_color=E8A33D&text_color=E8EAF2"/> -->
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=vishwapriyai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0C14&title_color=E8A33D&icon_color=3DD6C7&text_color=E8EAF2"/> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vishwapriyai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0C14&title_color=E8A33D&text_color=E8EAF2"/>
 
 <br/>
 
