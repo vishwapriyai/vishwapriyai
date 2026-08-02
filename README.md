@@ -1,9 +1,7 @@
-## Hi there 👋
-
 <div align="center">
 
 <!-- Banner placeholder — swap this src for your own banner image (1500x400 recommended) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0C14,100:1B2033&height=220&section=header&text=Hi%20there,%20I'm%20Vishwa%20Priya%20%F0%9F%91%8B&fontSize=38&fontColor=E8A33D&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Generative%20AI%20%26%20BI%20systems&descAlignY=55&descSize=16&descColor=8B93A7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0C14,100:1B2033&height=220&section=header&text=Hi%20there,%20I'm%20Vishwa%20Priya%20%F0%9F%91%8B&fontSize=38&fontColor=E8A33D&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Generative%20AI%20and%20BI%20Systems&descAlignY=55&descSize=16&descColor=8B93A7" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -77,9 +75,14 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwapriyai&theme=tokyonight&hide_border=true&background=0A0C14&ring=E8A33D&fire=E8A33D&currStreakLabel=3DD6C7"/>
+<img src="https://streak-stats.demolab.com/?user=vishwapriyai&theme=tokyonight&hide_border=true&background=0A0C14&ring=E8A33D&fire=E8A33D&currStreakLabel=3DD6C7"/>
 
 </div>
+
+> **Note on stats cards:** the public `github-readme-stats.vercel.app` instance is currently over capacity and intermittently returns broken responses (a known, actively-reported issue — not specific to this README). If the cards above don't load or throw an XML error:
+> 1. Wait and refresh — it often recovers.
+> 2. For reliability, deploy your own free copy: fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) → import it into Vercel → swap `github-readme-stats.vercel.app` in the URLs above for your own `your-project-name.vercel.app`. Takes about 5 minutes and removes the shared rate limit entirely.
+> 3. The streak-stats widget above now points to `streak-stats.demolab.com` (the actively maintained mirror), since the old `.herokuapp.com` domain has been discontinued.
 
 <br/>
 
